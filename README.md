@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/banner.svg" alt="Git / Hub — Lu PY @yukhughkui"/>
+  <img width="100%" src="./assets/banner.svg?r=2" alt="Git / Hub — Lu PY @yukhughkui"/>
 </div>
 
 <div align="center">
