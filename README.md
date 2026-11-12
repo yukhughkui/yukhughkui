@@ -1,16 +1,16 @@
 <div align="center">
-  <img width="100%" src="./assets/banner.svg?r=2" alt="Git / Hub — Lu PY @yukhughkui"/>
+  <img width="100%" src="./assets/banner.svg?v=3" alt="Git / Hub"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/yukhughkui"><img height="26" src="./assets/badge-github.svg" alt="GitHub: yukhughkui"/></a>
-  <img height="26" src="./assets/badge-status.svg" alt="Now: building small tools"/>
-  <img height="26" src="./assets/badge-hello.svg" alt="Say hi: 你好 · Bonjour · Hola"/>
+  <a href="https://github.com/yukhughkui"><img height="26" src="./assets/badge-github.svg?v=3" alt="GitHub: yukhughkui"/></a>
+  <img height="26" src="./assets/badge-status.svg?v=3" alt="Now: building small tools"/>
+  <img height="26" src="./assets/badge-hello.svg?v=3" alt="Say hi: 你好 · Bonjour · Hola"/>
 </div>
 
 ---
 
-## <img src="./assets/mark-01.svg" width="22" height="22" alt="01"> About Me
+## <img src="./assets/mark-01.svg?v=3" width="22" height="22" alt="01"> About Me
 
 > **「把想法做成点开就能用的东西。」**
 
@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="./assets/mark-02.svg" width="22" height="22" alt="02"> Now
+## <img src="./assets/mark-02.svg?v=3" width="22" height="22" alt="02"> Now
 
 ```text
 🌱 在学      → 网页 / 计算机视觉 / 把界面做干净一点
@@ -33,7 +33,7 @@
 
 ---
 
-## <img src="./assets/mark-03.svg" width="22" height="22" alt="03"> Selected Work
+## <img src="./assets/mark-03.svg?v=3" width="22" height="22" alt="03"> Selected Work
 
 | 项目 | 一句话 | 技术 |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@
 
 ---
 
-## <img src="./assets/mark-04.svg" width="22" height="22" alt="04"> Stack
+## <img src="./assets/mark-04.svg?v=3" width="22" height="22" alt="04"> Stack
 
 Python · JavaScript · HTML / CSS · Kotlin · PyTorch / YOLOv8 · 数据可视化
 
@@ -55,6 +55,6 @@ Python · JavaScript · HTML / CSS · Kotlin · PyTorch / YOLOv8 · 数据可视
 ---
 
 <div align="center">
-  <img width="100%" src="./assets/footer.svg" alt=""/>
-  <sub>橙与黑 · 云渡禅穹 · 在快节奏的世界里慢慢写字</sub>
+  <img width="100%" src="./assets/footer.svg?v=3" alt=""/>
+  <sub>云渡禅穹 · 在快节奏的世界里慢慢写字</sub>
 </div>

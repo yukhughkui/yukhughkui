@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="end of profile">
-  <rect width="1200" height="90" fill="#000000"/>
-  <line x1="60" y1="42" x2="1140" y2="42" stroke="#2A2A2A" stroke-width="1"/>
-  <circle cx="556" cy="42" r="2" fill="#4A4A4A"/>
-  <circle cx="644" cy="42" r="2" fill="#4A4A4A"/>
-  <rect x="592" y="34" width="16" height="16" rx="4" fill="#FF9915"/>
-  <text x="600" y="70" text-anchor="middle" fill="#6E6E6E" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">END OF PROFILE</text>
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E9F8FF"/>
+      <stop offset="0.52" stop-color="#A9DDF6"/>
+      <stop offset="1" stop-color="#FFE9AE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="90" fill="url(#sky2)"/>
+  <line x1="60" y1="42" x2="1140" y2="42" stroke="#2E9BD6" stroke-opacity="0.35" stroke-width="1"/>
+  <circle cx="556" cy="42" r="2" fill="#2E9BD6" fill-opacity="0.45"/>
+  <circle cx="644" cy="42" r="2" fill="#2E9BD6" fill-opacity="0.45"/>
+  <rect x="592" y="34" width="16" height="16" rx="4" fill="#2E9BD6"/>
+  <text x="600" y="70" text-anchor="middle" fill="#3E6E8E" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">END OF PROFILE</text>
 </svg>

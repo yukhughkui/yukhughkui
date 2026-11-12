@@ -1,13 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Git Hub - Lu PY @yukhughkui">
-  <rect width="1200" height="340" fill="#000000"/>
-  <rect x="56" y="40" width="16" height="16" rx="4" fill="#FF9915"/>
-  <text x="84" y="53" fill="#6E6E6E" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.5">PROFILE</text>
-  <text x="1144" y="53" text-anchor="end" fill="#6E6E6E" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.5">2026 / GITHUB</text>
-  <text x="333" y="190" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="140">Git</text>
-  <rect x="564" y="62" width="304" height="160" rx="26" fill="#FF9915"/>
-  <text x="716" y="190" text-anchor="middle" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="130">Hub</text>
-  <line x1="300" y1="258" x2="900" y2="258" stroke="#2A2A2A" stroke-width="1"/>
-  <rect x="592" y="250" width="16" height="16" rx="4" fill="#FF9915"/>
-  <text x="600" y="296" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, 'Microsoft YaHei', sans-serif" font-size="23" letter-spacing="3">Lu PY  ·  @yukhughkui</text>
-  <text x="600" y="322" text-anchor="middle" fill="#A6A6A6" font-family="Arial, Helvetica, 'Microsoft YaHei', sans-serif" font-size="16" letter-spacing="1">做点能点开就用的小东西</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Git Hub">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E9F8FF"/>
+      <stop offset="0.52" stop-color="#A9DDF6"/>
+      <stop offset="1" stop-color="#FFE9AE"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" fill="url(#sky)"/>
+  <path d="M0 268 C 200 232, 400 306, 600 276 S 1000 236, 1200 272 L1200 340 L0 340 Z" fill="url(#wave)"/>
+  <g transform="translate(0,28)">
+    <text x="333" y="190" fill="#0B1620" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="140">Git</text>
+    <rect x="564" y="62" width="304" height="160" rx="26" fill="#FF9915"/>
+    <text x="716" y="190" text-anchor="middle" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="130">Hub</text>
+  </g>
 </svg>
